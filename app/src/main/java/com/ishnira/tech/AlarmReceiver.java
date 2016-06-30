@@ -1,4 +1,4 @@
-package ishnira.tech.com;
+package com.ishnira.tech;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -21,7 +21,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.util.Locale;
 
-import ishnira.tech.com.widgets.AbstractWidgetProvider;
+import com.ishnira.tech.widgets.AbstractWidgetProvider;
 
 public class AlarmReceiver extends BroadcastReceiver {
 

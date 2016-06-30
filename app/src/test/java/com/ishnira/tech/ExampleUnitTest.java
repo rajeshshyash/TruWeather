@@ -1,4 +1,4 @@
-package ishnira.tech.com;
+package com.ishnira.tech;
 
 import org.junit.Test;
 

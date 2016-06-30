@@ -1,4 +1,4 @@
-package ishnira.tech.com.widgets;
+package com.ishnira.tech.widgets;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -16,11 +16,11 @@ import java.text.DateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import ishnira.tech.com.AlarmReceiver;
-import ishnira.tech.com.BuildConfig;
-import ishnira.tech.com.MainActivity;
-import ishnira.tech.com.R;
-import ishnira.tech.com.Weather;
+import com.ishnira.tech.AlarmReceiver;
+import com.ishnira.tech.BuildConfig;
+import com.ishnira.tech.MainActivity;
+import com.ishnira.tech.R;
+import com.ishnira.tech.Weather;
 
 public class TimeWidgetProvider extends AbstractWidgetProvider {
 

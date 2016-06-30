@@ -1,4 +1,4 @@
-package ishnira.tech.com.widgets;
+package com.ishnira.tech.widgets;
 
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
@@ -20,9 +20,9 @@ import org.json.JSONObject;
 import java.text.DecimalFormat;
 import java.util.Calendar;
 
-import ishnira.tech.com.MainActivity;
-import ishnira.tech.com.R;
-import ishnira.tech.com.Weather;
+import com.ishnira.tech.MainActivity;
+import com.ishnira.tech.R;
+import com.ishnira.tech.Weather;
 
 public abstract class AbstractWidgetProvider extends AppWidgetProvider {
 

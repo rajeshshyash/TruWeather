@@ -1,4 +1,4 @@
-package ishnira.tech.com;
+package com.ishnira.tech;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

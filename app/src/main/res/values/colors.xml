@@ -4,7 +4,9 @@
     <color name="colorPrimaryDark">#0ea5ed</color>
     <color name="colorAccent">#455a64</color>
     <color name="colorBackground">@android:color/transparent</color>
+
     <color name="colorTintedBackground">#cdcdcd</color>
+    <color name="colorTextColors">#ffffff</color>
 
     <color name="darkTheme_colorPrimary">#37474f</color>
     <color name="darkTheme_colorPrimaryDark">#263238</color>

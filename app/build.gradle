@@ -20,6 +20,9 @@ android {
                 disable 'MissingTranslation'
             }*/
         }
+        debug {
+            debuggable true
+        }
     }
 }
 

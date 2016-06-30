@@ -1,4 +1,4 @@
-package ishnira.tech.com.widgets;
+package com.ishnira.tech.widgets;
 
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
@@ -10,10 +10,10 @@ import android.widget.RemoteViews;
 
 import java.text.DateFormat;
 
-import ishnira.tech.com.AlarmReceiver;
-import ishnira.tech.com.MainActivity;
-import ishnira.tech.com.R;
-import ishnira.tech.com.Weather;
+import com.ishnira.tech.AlarmReceiver;
+import com.ishnira.tech.MainActivity;
+import com.ishnira.tech.R;
+import com.ishnira.tech.Weather;
 
 public class ExtensiveWidgetProvider extends AbstractWidgetProvider {
 

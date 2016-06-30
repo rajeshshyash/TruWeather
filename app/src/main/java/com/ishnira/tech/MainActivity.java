@@ -1,4 +1,4 @@
-package ishnira.tech.com;
+package com.ishnira.tech;
 
 import android.Manifest;
 import android.app.ProgressDialog;
@@ -59,7 +59,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-import ishnira.tech.com.widgets.AbstractWidgetProvider;
+import com.ishnira.tech.widgets.AbstractWidgetProvider;
 
 public class MainActivity extends AppCompatActivity implements LocationListener {
     private static final int MY_PERMISSIONS_ACCESS_FINE_LOCATION = 1;

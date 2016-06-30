@@ -1,4 +1,4 @@
-package ishnira.tech.com;
+package com.ishnira.tech;
 
 public class Constants {
     public static final String  DEFAULT_CITY = "Bangalore";

@@ -1,4 +1,4 @@
-package ishnira.tech.com;
+package com.ishnira.tech;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
